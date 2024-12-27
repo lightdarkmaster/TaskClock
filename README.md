@@ -2,10 +2,10 @@
 A simple task clock app using python
 
 ## Requirements:
-1. python version 3.9.7 and later
-2. tkinter
-3. time
-4. math
+1. [python version 3.9.7 and later](https://www.python.org/downloads/)
+2. [tkinter](https://pypi.org/project/tkintertable/)
+3. [time](https://pypi.org/project/TIME-python/)
+4. [math](https://pypi.org/project/python-math/)
 
 <div style="display: flex; justify-content: center; gap: 20px;">
    <img src="screenshots/ss1.png" alt="Initial State" width="350px">
