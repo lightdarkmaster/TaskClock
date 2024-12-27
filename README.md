@@ -175,3 +175,9 @@ if __name__ == "__main__":
     clock = Clock(root)
     root.mainloop()
 ```
+
+Run the code:
+1. python clockTIme.py or just run the code in your code editor
+```bash
+python clockTIme.py
+```
