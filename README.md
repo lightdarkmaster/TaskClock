@@ -12,7 +12,7 @@ A simple task clock app using python
    <img src="screenshots/ss2.png" alt="Loaded Tasks" width="350px">
 </div>
 
-## 🖼️ Codebase
+## 🖼️ Code Documentations
 
 Here are the packages imports:
 
