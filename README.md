@@ -1,6 +1,8 @@
 # TaskClock
 A simple task clock app using python
 
+# Full Documentation and Guide.
+
 ## Requirements:
 1. [python version 3.9.7 and later](https://www.python.org/downloads/)
 2. [tkinter](https://pypi.org/project/tkintertable/)
