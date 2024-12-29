@@ -1,5 +1,5 @@
 read books
-sleep
+Nap
 wakeup
 snack
 wake up
